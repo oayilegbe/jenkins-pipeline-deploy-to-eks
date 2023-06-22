@@ -8,8 +8,10 @@ Steps for this project
 
 2. Once completed, access the Jenkins server and Set it up
 
-4. Run the jenkins-pipeline-deploy-to-eks to create Kubernetes Cluster, Create Deployments and Services
+4. Run the jenkins-pipeline-deploy-to-eks to
+   - create Kubernetes Cluster
+   - Create Deployments and Services
 
-5. Test that the application is running
+6. Test that the application is running
 
-6. Destroy infrastructure
+7. Destroy infrastructure
